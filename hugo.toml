@@ -38,3 +38,28 @@ themesDir = "themes"
       unsafe = true
 
 ignoreLogs = ['warning-goldmark-raw-html']
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About Us"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Ministries"
+  url = "/leadership/"
+  weight = 3
+
+[[menu.main]]
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
