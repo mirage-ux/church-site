@@ -1,0 +1,7 @@
+public/
+resources/
+.hugo_build.lock
+repomix-output.md
+repomix.config.json
+.repomixignore
+churchrepo.pdf

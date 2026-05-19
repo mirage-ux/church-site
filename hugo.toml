@@ -1,0 +1,40 @@
+baseURL = "https://mirage-ux.github.io/church-site/"
+languageCode = "en-us"
+title = "The Ministry of Faith"
+theme = "hugo-serif-theme"
+themesDir = "themes"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  description = "A place of faith, healing, and community in Houston, Texas."
+
+[params.fonts]
+  google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+Pro:wght@400;600;700&display=swap'
+  heading = "Playfair Display"
+  base = "Source Sans Pro"
+
+[params.logo]
+  mobile = "images/logo/logo.png"
+  desktop = "images/logo/logo.png"
+  mobile_height = "40px"
+  desktop_height = "50px"
+  alt = "The Ministry of Faith"
+
+[params.footer]
+  copyright_text = "2026 The Ministry of Faith / House of Hope"
+
+[params.contact]
+  email = "pastordon60@gmail.com"
+  phone = "(281) 717-3324"
+  location = "Houston, Texas"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
