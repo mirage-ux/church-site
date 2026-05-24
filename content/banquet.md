@@ -20,18 +20,10 @@ Come ready to be encouraged, uplifted, and inspired.
 ## Banquet Photos
 
 <div class="gallery-grid">
-  <div class="gallery-item"><img src="/church-site/images/ANMP0141.jpg" alt="Ministry of Faith Annual Banquet" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (1).jpg" alt="Banquet celebration" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (2).jpg" alt="Banquet fellowship" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (3).jpg" alt="Banquet gathering" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (4).jpg" alt="Church family banquet" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (5).jpg" alt="Banquet worship" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (6).jpg" alt="Banquet evening" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (7).jpg" alt="Ministry banquet" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (8).jpg" alt="House of Hope banquet" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (9).jpg" alt="Banquet community" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (10).jpg" alt="Banquet celebration" /></div>
-  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105812 (11).jpg" alt="Ministry celebration" /></div>
+  <div class="gallery-item"><img src="/church-site/images/Designer.png" alt="Ministry of Faith Annual Banquet" /></div>
+  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105811 (1).png" alt="Banquet celebration" /></div>
+  <div class="gallery-item"><img src="/church-site/images/mensa.png" alt="M.E.N.S. Ministry at the Banquet" /></div>
+  <div class="gallery-item"><img src="/church-site/images/IMG_20260519_105811.png" alt="Banquet fellowship" /></div>
 </div>
 
 <style>
