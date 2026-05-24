@@ -1,0 +1,105 @@
+/* ============================================================
+   The Ministry of Faith — Church Colors: Purple & Gold
+   Primary: #5B2D8E (Royal Purple)
+   Gold trim: #D4AF37 (Classic Gold)
+   ============================================================ */
+
+/* ── Header ── */
+.header {
+  border-bottom: 3px solid #D4AF37;
+}
+
+/* ── Navigation links ── */
+.main-menu ul li a,
+.main-menu-mobile ul li a {
+  color: #5B2D8E;
+}
+.main-menu ul li a:hover,
+.main-menu-mobile ul li a:hover {
+  color: #D4AF37;
+}
+.main-menu ul li.active > a,
+.main-menu-mobile ul li.active > a {
+  color: #D4AF37;
+}
+
+/* ── Buttons ── */
+.button, a.button, button.button {
+  background-color: #5B2D8E;
+  border-color: #5B2D8E;
+  color: #ffffff;
+}
+.button:hover, a.button:hover {
+  background-color: #D4AF37;
+  border-color: #D4AF37;
+  color: #ffffff;
+}
+
+/* ── Links ── */
+a {
+  color: #5B2D8E;
+}
+a:hover {
+  color: #D4AF37;
+}
+
+/* ── Page titles ── */
+h1.title {
+  color: #5B2D8E;
+}
+
+/* ── Intro headings ── */
+.intro h1 {
+  color: #5B2D8E;
+}
+
+/* ── Headings gold accent underline ── */
+h2 {
+  border-bottom: 2px solid #D4AF37;
+  padding-bottom: 6px;
+  display: inline-block;
+}
+
+/* ── Footer: purple background with gold title ── */
+.footer {
+  background-color: #5B2D8E;
+}
+.footer .footer-title {
+  color: #D4AF37;
+}
+.footer a {
+  color: #D4AF37;
+}
+.footer a:hover {
+  color: #ffffff;
+}
+
+/* ── Sub-footer: deep purple ── */
+.sub-footer {
+  background-color: #3d1c63;
+}
+.sub-footer .copyright {
+  color: #D4AF37;
+}
+
+/* ── Hamburger menu icon ── */
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+  background-color: #5B2D8E;
+}
+
+/* ── Gold strip/divider lines ── */
+hr {
+  border-color: #D4AF37;
+  opacity: 0.5;
+}
+
+/* ── Strip/call-to-action sections ── */
+.strip {
+  background-color: #5B2D8E;
+  color: #ffffff;
+}
+.strip a {
+  color: #D4AF37;
+}

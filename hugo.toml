@@ -12,6 +12,13 @@ themesDir = "themes"
 [params]
   description = "A place of faith, healing, and community in Houston, Texas."
 
+[params.colors]
+  primary = "#5B2D8E"
+  black = "#2f2f41"
+  white = "#ffffff"
+  white_offset = "#f8f4ff"
+  grey = "#5C5A5A"
+
 [params.fonts]
   google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+Pro:wght@400;600;700&display=swap'
   heading = "Playfair Display"
@@ -55,11 +62,16 @@ ignoreLogs = ['warning-goldmark-raw-html']
   weight = 3
 
 [[menu.main]]
+  name = "Banquet"
+  url = "/banquet/"
+  weight = 4
+
+[[menu.main]]
   name = "Gallery"
   url = "/gallery/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 5
+  weight = 6
