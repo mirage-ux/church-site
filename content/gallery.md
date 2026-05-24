@@ -24,6 +24,10 @@ A glimpse into the life and community of The Ministry of Faith / House of Hope i
 <div class="gallery-item"><img src="../images/pastor-portrait.png" alt="Pastor Don Jones" /></div>
 <div class="gallery-item"><img src="../images/pastor-portrait-2.png" alt="Ministry leadership" /></div>
 <div class="gallery-item"><img src="../images/church-banner.png" alt="The Ministry of Faith" /></div>
+<div class="gallery-item"><img src="../images/Designer.png" alt="Ministry of Faith" /></div>
+<div class="gallery-item"><img src="../images/IMG_20260519_105811 (1).png" alt="Church celebration" /></div>
+<div class="gallery-item"><img src="../images/mensa.png" alt="M.E.N.S. Ministry" /></div>
+<div class="gallery-item"><img src="../images/IMG_20260519_105811.png" alt="Church community" /></div>
 </div>
 
 <style>
